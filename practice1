@@ -9,3 +9,8 @@ result5 = input1**input2
 
 print(result1, result2, result3, result4, result5)
 
+input3=4
+result6=result1*input3
+result7=result2**input3
+
+print(result6,result7)

@@ -1,7 +1,11 @@
 input1 = 5
 input2 = 6
 
-print(input1*input2, input1+input2)
-
 result1 = input1*input2
 result2 = input1+input2
+result3 = input1-input2
+result4 = input1/input2
+result5 = input1**input2
+
+print(result1, result2, result3, result4, result5)
+
